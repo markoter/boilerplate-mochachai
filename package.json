@@ -3,11 +3,8 @@
   "version": "0.0.1",
   "description": "Boilerplate for the Quality Assurance and Testing with Chai challenges",
   "main": "server.js",
-  "homepage": "https://markoter.github.io/automated-testing-app",
   "scripts": {
-    "start": "node server.js",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "start": "node server.js"
   },
   "dependencies": {
     "body-parser": "1.19.0",
